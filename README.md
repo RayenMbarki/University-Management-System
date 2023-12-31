@@ -44,6 +44,8 @@ Design exams for courses.
 # Getting Started 
 ```
   to run the code :
+     - the Main to run is in the src file 
+    
     git clone https://github.com/RayenMbarki/University-Management-System.git
     javac src/Main.java
     java Main
