@@ -22,22 +22,22 @@ AdministrationEmployee: Inherits from Person. Represents an administration emplo
 TimeSheet: presents the timetable of the courses in the university .
 
 # FEATUERS
-1. Student Manager
+## 1. Student Manager
   - Add students with their details.
 Enroll students in courses.
-2. Teacher Manager
+## 2. Teacher Manager
   -Add teachers with their details.
   -Assign teachers to courses.
-3. Course Manager
+## 3. Course Manager
    -Create courses for specific subjects.
    -Register students for courses.
 Design exams for courses.
-4. Club Manager
+## 4. Club Manager
    -Create clubs and manage club membership.
-5. Timesheet Manager
+## 5. Timesheet Manager
   -Add courses to the timetable with specific schedules.
   -Display the university timetable.
-6. Administration Employee Management
+## 6. Administration Employee Management
   -Add administration employees with their responsibilities.
 
 
