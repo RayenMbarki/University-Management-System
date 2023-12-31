@@ -1,4 +1,6 @@
-#Classes Overview
+# OVERVIEW
+
+
 Person : specified with first , last name and the age  
 
 Student: extends from Person specified  also with ID, speciality, and list of courses that a student  is enrolled in .
@@ -19,7 +21,7 @@ AdministrationEmployee: Inherits from Person. Represents an administration emplo
 
 TimeSheet: presents the timetable of the courses in the university .
 
-#Features
+# FEATUERS
 1. Student Manager
   - Add students with their details.
 Enroll students in courses.
@@ -39,7 +41,7 @@ Design exams for courses.
   -Add administration employees with their responsibilities.
 
 
-#Getting Started 
+# Getting Started 
 ```
   to run the code :
     git clone https://github.com/RayenMbarki/University-Management-System.git
